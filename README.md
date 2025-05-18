@@ -6,14 +6,14 @@
 ## New Documentation
 
 Hi 👋  
-Please visit [Deauther.com](https://deauther.com) for information about this project.  
+Please visit [docs](https://concuchaba.github.io/docs) for information about this project.  
 Here are some quick links:
 
-* [Buy]([https://www.youtube.com/watch?v=dQw4w9WgXcQ))
+* [Buy](https://www.youtube.com/watch?v=dQw4w9WgXcQ))
 * [Download](https://deauther.com/docs/download)
 * [DIY Tutorial](https://concuchaba.github.io/docs)
-* [Usage]([https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-* [FAQ]([https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* [Usage](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* [FAQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## About this Project
 
