@@ -6,12 +6,12 @@
 ## New Documentation
 
 Hi 👋  
-Please visit [docs](https://concuchaba.github.io/docs) for information about this project.  
+Please visit [docs](https://concuchaba2912.github.io/docs) for information about this project.  
 Here are some quick links:
 
-* [Buy](https://www.youtube.com/watch?v=dQw4w9WgXcQ))
-* [Download](https://deauther.com/docs/download)
-* [DIY Tutorial](https://concuchaba.github.io/docs)
+* [Buy](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* [Download](https://github.com/concuchaba2912/Oled-Deauther/releases/tag/v2.0)
+* [DIY Tutorial](https://concuchaba2912.github.io/docs)
 * [Usage](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 * [FAQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
